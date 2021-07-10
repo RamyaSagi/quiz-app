@@ -1,8 +1,8 @@
 # Express, TypeORM quiz app
 
-This project is a basic quiz app Express and TypeORM together using Typescript.
+This is a basic quiz app using Express and TypeORM.
 
-The project is using right postgresql as its DB engine.
+Using postgresql as its DB engine.
 
 ## Install
 
@@ -10,7 +10,7 @@ The project is using right postgresql as its DB engine.
     $ npm install
 ```
 
-## Run Project
+## Run
 
 ```cmd
     $ npm run watch
